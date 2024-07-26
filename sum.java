@@ -10,11 +10,11 @@ public class LearnAWT extends Frame {
                     LearnAWT() { 
                           setTitle("Adder"); 
                           tf1 = new TextField(); 
-                          tf1.setBounds(104, 50, 85, 20);
+                          tf1.setBounds(100, 50, 85, 20);
                           tf2 = new TextField(); 
                           tf2.setBounds(107, 100, 85, 20); 
                           b = new Button("Add"); 
-                          b.setBounds(110,220,60,40);
+                          b.setBounds(110,228,60,40);
                           l1 = new Label(""); 
                           l1.setBounds(100, 120, 85, 20); 
                           add(b); 
