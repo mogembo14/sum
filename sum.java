@@ -12,7 +12,7 @@ public class LearnAWT extends Frame {
                           tf1 = new TextField(); 
                           tf1.setBounds(100, 50, 85, 20);
                           tf2 = new TextField(); 
-                          tf2.setBounds(107, 100, 85, 20); 
+                          tf2.setBounds(100, 100, 85, 20); 
                           b = new Button("Add"); 
                           b.setBounds(110,228,60,40);
                           l1 = new Label(""); 
